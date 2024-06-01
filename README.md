@@ -39,6 +39,11 @@ cd 3 TOGGLE
 
 3. Abre el archivo `index.html` en tu navegador para ver el proyecto en acción o ingresa al siguiente enlace para probarlo: https://botton-action.netlify.app/
 
+# Capturas
+![close](https://github.com/Dexne/Toggle-container-project/blob/main/assets/close.png)
+
+![open](https://github.com/Dexne/Toggle-container-project/blob/main/assets/open.png)
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
